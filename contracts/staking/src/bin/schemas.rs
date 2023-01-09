@@ -8,4 +8,5 @@ fn main(){
         execute: ExecuteMsg,
         query: QueryMsg,
     }
+    println!("Hello World")
 }
