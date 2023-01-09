@@ -1,17 +1,17 @@
 [workspace]
 members = ["contracts/*"]
 
-[workspace.package]
-version       = "0.1.0"
-edition       = "2021"
-license       = "Apache-2.0"
-repository    = ""
-homepage      = ""
-documentation = ""
-authors       = [
-  "Sara NP <sara.neves.pereira@gmail.com>",
-  "Blas Morkai <blas.morkai@gmail.com>",
-]
+# [workspace.package]
+# version       = "0.1.0"
+# edition       = "2021"
+# license       = "Apache-2.0"
+# repository    = ""
+# homepage      = ""
+# documentation = ""
+# authors       = [
+#   "Sara NP <sara.neves.pereira@gmail.com>",
+#   "Blas Morkai <blas.morkai@gmail.com>",
+# ]
 
 [profile.release.package.staking]
 codegen-units = 1

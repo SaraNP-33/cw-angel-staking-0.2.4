@@ -2,7 +2,7 @@
 mod tests{
     use crate::{helpers::StakingContract, state::ValidatorInfo};
     use cosmwasm_std::{coin,Addr, Coin, Empty, Uint128, Decimal, Validator, FullDelegation, StdResult};
-    use cosmwasm_std::testing::{mock_env};
+    use cosmwasm_std::testing::mock_env;
     use cw_multi_test::{App,AppBuilder,Contract,ContractWrapper,Executor,StakingInfo};
     use cw_utils::WEEK;
     use crate::msg::{ExecuteMsg,InstantiateMsg,QueryMsg};

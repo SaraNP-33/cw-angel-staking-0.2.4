@@ -6,7 +6,8 @@ mod tests {
     use nft::contract::{Metadata, Status};
     use crate::helpers::{AgentContract };
     use cosmwasm_std::{Addr, Coin, Empty, Uint128, Decimal, Validator, coin,};
-    use cosmwasm_std::testing::{ mock_env};
+    // use cosmwasm_std::testing::{ mock_env};
+    use cosmwasm_std::testing::mock_env;
     use cw_utils::WEEK;
 
 

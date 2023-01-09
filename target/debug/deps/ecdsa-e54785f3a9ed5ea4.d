@@ -1,0 +1,11 @@
+/Users/saranevespereira/Documents/WBA_bootcamp/capstone/cw-angel-staking-0.2.4/target/debug/deps/ecdsa-e54785f3a9ed5ea4.rmeta: /Users/saranevespereira/.cargo/registry/src/github.com-1ecc6299db9ec823/ecdsa-0.14.8/src/lib.rs /Users/saranevespereira/.cargo/registry/src/github.com-1ecc6299db9ec823/ecdsa-0.14.8/src/recovery.rs /Users/saranevespereira/.cargo/registry/src/github.com-1ecc6299db9ec823/ecdsa-0.14.8/src/der.rs /Users/saranevespereira/.cargo/registry/src/github.com-1ecc6299db9ec823/ecdsa-0.14.8/src/hazmat.rs /Users/saranevespereira/.cargo/registry/src/github.com-1ecc6299db9ec823/ecdsa-0.14.8/src/sign.rs /Users/saranevespereira/.cargo/registry/src/github.com-1ecc6299db9ec823/ecdsa-0.14.8/src/verify.rs /Users/saranevespereira/.cargo/registry/src/github.com-1ecc6299db9ec823/ecdsa-0.14.8/src/../README.md
+
+/Users/saranevespereira/Documents/WBA_bootcamp/capstone/cw-angel-staking-0.2.4/target/debug/deps/ecdsa-e54785f3a9ed5ea4.d: /Users/saranevespereira/.cargo/registry/src/github.com-1ecc6299db9ec823/ecdsa-0.14.8/src/lib.rs /Users/saranevespereira/.cargo/registry/src/github.com-1ecc6299db9ec823/ecdsa-0.14.8/src/recovery.rs /Users/saranevespereira/.cargo/registry/src/github.com-1ecc6299db9ec823/ecdsa-0.14.8/src/der.rs /Users/saranevespereira/.cargo/registry/src/github.com-1ecc6299db9ec823/ecdsa-0.14.8/src/hazmat.rs /Users/saranevespereira/.cargo/registry/src/github.com-1ecc6299db9ec823/ecdsa-0.14.8/src/sign.rs /Users/saranevespereira/.cargo/registry/src/github.com-1ecc6299db9ec823/ecdsa-0.14.8/src/verify.rs /Users/saranevespereira/.cargo/registry/src/github.com-1ecc6299db9ec823/ecdsa-0.14.8/src/../README.md
+
+/Users/saranevespereira/.cargo/registry/src/github.com-1ecc6299db9ec823/ecdsa-0.14.8/src/lib.rs:
+/Users/saranevespereira/.cargo/registry/src/github.com-1ecc6299db9ec823/ecdsa-0.14.8/src/recovery.rs:
+/Users/saranevespereira/.cargo/registry/src/github.com-1ecc6299db9ec823/ecdsa-0.14.8/src/der.rs:
+/Users/saranevespereira/.cargo/registry/src/github.com-1ecc6299db9ec823/ecdsa-0.14.8/src/hazmat.rs:
+/Users/saranevespereira/.cargo/registry/src/github.com-1ecc6299db9ec823/ecdsa-0.14.8/src/sign.rs:
+/Users/saranevespereira/.cargo/registry/src/github.com-1ecc6299db9ec823/ecdsa-0.14.8/src/verify.rs:
+/Users/saranevespereira/.cargo/registry/src/github.com-1ecc6299db9ec823/ecdsa-0.14.8/src/../README.md:
