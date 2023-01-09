@@ -1,3 +1,10 @@
+use cosmwasm_schema::write_api;
+use::nft::msg::{ExecuteMsg,QueryMsg};
+
 fn main() {
-    println!("Hello, world!");
+    write_api! {                                   
+        instantiate: InstantiateMsg,
+        execute: ExecuteMsg,
+        query: QueryMsg,
+     }
 }
