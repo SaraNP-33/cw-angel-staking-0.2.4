@@ -31,7 +31,7 @@ optimize = """docker run --rm -v "$(pwd)":/code \
 """
 
 [dependencies]
-cosmwasm-std    = "1.1.5"
+cosmwasm-std    = "1.1.9"
 cw2             = "1.0.1"
 cw721           = "0.16.0" 
 cw721-base = { version = "0.16.0", features = ["library"] }
@@ -42,7 +42,9 @@ serde           = { version = "1.0.145", default-features = false, features = ["
 thiserror       = "1.0.31"
 cosmwasm-schema = "1.1.6"
 cw-utils        = "1.0.1"
-cw-multi-test = "0.16.2"
 nft = {version = "0.1.0", path = "../nft"}
 staking ={version = "0.1.0",path="../staking"}
 getrandom = { version = "0.2", features = ["js"] }
+
+[dev-dependencies]
+cw-multi-test = "0.16.2"
