@@ -1,3 +1,10 @@
+use cosmwasm_schema::write_api;
+use agent::msg::{ExecuteMsg, QueryMsg,InstantiateMsg};
+
 fn main() {
-    println!("Hello, world!");
+    write_api! {                                   
+        instantiate: InstantiateMsg,
+        execute: ExecuteMsg,
+        query: QueryMsg,
+     }
 }
