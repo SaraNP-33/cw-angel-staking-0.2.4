@@ -41,7 +41,7 @@ thiserror         = { workspace = true }
 cosmwasm-schema   = { workspace = true }
 cw-controllers    = { workspace = true }
 cw-utils          = { workspace = true }
-getrandom = { workspace = true }
+
 
 [dev-dependencies]
 cw-multi-test = { workspace = true }

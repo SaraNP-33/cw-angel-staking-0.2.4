@@ -39,7 +39,6 @@ schemars          = { workspace = true }
 serde             = { workspace = true }
 thiserror         = { workspace = true }
 cosmwasm-schema   = { workspace = true }
-getrandom = { workspace = true }
 
 [dev-dependencies]
 cw-multi-test = { workspace = true }

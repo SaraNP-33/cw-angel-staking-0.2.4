@@ -44,7 +44,7 @@ cosmwasm-schema   = { workspace = true }
 cw-utils          = { workspace = true }
 nft = { workspace = true }
 staking ={ workspace = true }
-getrandom = { workspace = true }
+
 
 [dev-dependencies]
 cw-multi-test = { workspace = true }
